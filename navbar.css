@@ -3,22 +3,27 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #4876f3
+    background-color: #4876f3;
 }
 
-.navbar-element {
-    display: block;
-}
-
-.picture {
-    float:left
+.logo {
+    float: left;
 }
 
 .option {
-    float:right
+    float: right;
+    text-align: center;
 }
 
-#senior-caucus {
-    width: 50%;
-    height: 50%
+li a {
+    font-family: "Trebuchet MS";
+    font-size: 40px;
+    display: block;
+    padding: 14px 16px 10px 16px;
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
 }
