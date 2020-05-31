@@ -15,11 +15,11 @@
     float: right;
     text-align: center;
     padding: 14px 16px 10px 16px;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 #bigname {
-    font-size: 35px;
+    font-size: 24px;
     border-bottom: solid 4px #E23C47;
     padding-bottom: 1px;
 }
@@ -27,25 +27,14 @@
 #smallnames {
     padding-top: 2px;
     padding-bottom: 3px;
-    font-size: 18px;
+    font-size: 12px;
     float: right;
 }
 
 li a {
     display: block;
+    color: white;
     text-decoration: none;
-}
-
-li a #bigname {
-    color: white;
-}
-
-li a #smallnames {
-    color: white;
-}
-
-li a #map-option {
-    color: #62C25B;
 }
 
 body {
