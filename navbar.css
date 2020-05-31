@@ -1,0 +1,24 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4876f3
+}
+
+.navbar-element {
+    display: block;
+}
+
+.picture {
+    float:left
+}
+
+.option {
+    float:right
+}
+
+#senior-caucus {
+    width: 50%;
+    height: 50%
+}
