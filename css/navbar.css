@@ -19,19 +19,19 @@
 }
 
 #bigname {
-    font-size: 30px;
-    border-bottom: solid 4px red;
-    padding-bottom: 2px;
+    font-size: 35px;
+    border-bottom: solid 4px #E23C47;
+    padding-bottom: 1px;
 }
 
 #smallnames {
     padding-top: 2px;
-    font-size: 20px;
+    padding-bottom: 3px;
+    font-size: 18px;
     float: right;
 }
 
 li a {
-    font-family: "Trebuchet MS";
     display: block;
     color: white;
     text-decoration: none;
@@ -40,9 +40,5 @@ li a {
 body {
     margin: 0;
     background-color: #F6F4F3;
-}
-
-iframe {
-    width: 75%;
-    height: 600px;
+    font-family: "Trebuchet MS";
 }
