@@ -33,8 +33,19 @@
 
 li a {
     display: block;
-    color: white;
     text-decoration: none;
+}
+
+li a #bigname {
+    color: white;
+}
+
+li a #smallnames {
+    color: white;
+}
+
+li a #map-option {
+    color: #62C25B;
 }
 
 body {

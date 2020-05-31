@@ -1,14 +1,16 @@
 h1 {
     font-size: 60px;
-    color: #E23C47;
+    color: #62C25B;
+    margin-bottom: 10px;
 }
 
 iframe {
     width: 75%;
     height: 600px;
+    border: solid 2px #62C25B;
 }
 
 i {
-    font-size: 15px;
-    color: #F2A6AB;
+    font-size: 18px;
+    color: #9BD897;
 }
