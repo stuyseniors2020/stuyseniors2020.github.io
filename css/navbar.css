@@ -19,7 +19,7 @@
 }
 
 #bigname {
-    font-size: 24px;
+    font-size: 30px;
     border-bottom: solid 4px #E23C47;
     padding-bottom: 1px;
 }
@@ -38,7 +38,7 @@ li a {
 }
 
 li a #bigname {
-    font-family: free;
+    font-family: freescript;
 }
 
 body {
@@ -48,6 +48,6 @@ body {
 }
 
 @font-face {
-    font-family: free;
+    font-family: freescript;
     src: url(/static/freescript.ttf);
 }
