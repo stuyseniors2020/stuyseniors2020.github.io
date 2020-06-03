@@ -19,7 +19,7 @@
 }
 
 #bigname {
-    font-size: 50px;
+    font-size: 24px;
     border-bottom: solid 4px #E23C47;
     padding-bottom: 1px;
 }
@@ -37,17 +37,8 @@ li a {
     text-decoration: none;
 }
 
-li a #bigname {
-    font-family: freescript;
-}
-
 body {
     margin: 0;
     background-color: #F6F4F3;
     font-family: "Trebuchet MS";
-}
-
-@font-face {
-    font-family: freescript;
-    src: url(/static/freescript.ttf);
 }
