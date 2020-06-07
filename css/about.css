@@ -11,6 +11,12 @@ p {
     line-height: 1.5;
 }
 
+p a {
+    text-decoration: none;
+    color: #0C37AC;
+    font-weight: bold;
+}
+
 #final {
     font-size: 20pt;
 }
