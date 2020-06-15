@@ -11,7 +11,7 @@ p {
     line-height: 1.5;
 }
 
-p a {
+p #link {
     text-decoration: none;
     color: #0F43D2;
     font-weight: bold;
@@ -19,4 +19,24 @@ p a {
 
 #final {
     font-size: 20pt;
+    text-decoration: none;
+}
+
+#fb {
+    width: 40px;
+}
+
+#gmail {
+    width: 40px;
+    padding-left: 10px;
+    padding-right: 12px;
+    padding-bottom: 4px;
+}
+
+#insta {
+    width: 40px;
+}
+
+.social {
+    text-decoration: none;
 }
