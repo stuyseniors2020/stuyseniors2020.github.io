@@ -6,6 +6,10 @@
     background-color: #4876f3;
 }
 
+.active {
+    background-color: #799AF6;
+}
+
 .logo {
     float: left;
     padding: 0px 20px;
